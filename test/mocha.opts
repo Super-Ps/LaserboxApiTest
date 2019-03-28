@@ -1,0 +1,8 @@
+test/CameraService/*.js
+test/networkService/*.js
+
+--recursive
+--reporter mochawesome
+--growl
+--watch
+-t 10000
