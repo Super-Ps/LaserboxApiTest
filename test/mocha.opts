@@ -3,6 +3,4 @@ test/networkService/*.js
 
 --recursive
 --reporter mochawesome
---growl
---watch
--t 10000
+-t 20000
