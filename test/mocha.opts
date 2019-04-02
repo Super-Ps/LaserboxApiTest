@@ -3,4 +3,4 @@ test/networkService/*.js
 
 --recursive
 --reporter mochawesome
--t 20000
+-t 50000

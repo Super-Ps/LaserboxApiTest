@@ -5,7 +5,7 @@ const netServer = 'http://10.0.0.21:8080'
 
 
 
-describe(' ARM---摄像头服务', function () {
+describe.skip(' ARM---摄像头服务', function () {
 
     // before(()=>console.info("ARM---摄像头服务用例集开始"))
     // after(()=>console.info("ARM---摄像头服务用例集结束"))
